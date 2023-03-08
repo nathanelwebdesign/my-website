@@ -19,6 +19,12 @@ export default function Home() {
 				>
 					Work in progress website of Nathanel
 				</h1>
+				<h2
+					className={montserrat.className}
+					style={{ textAlign: "center", paddingTop: "2rem" }}
+				>
+					Edit for preview testing
+				</h2>
 			</main>
 		</>
 	);
